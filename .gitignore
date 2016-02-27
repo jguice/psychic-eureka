@@ -12,7 +12,6 @@
 
 ## IntelliJ
 .idea/
-*.iml
 
 ## Specific to RubyMotion:
 .dat*
