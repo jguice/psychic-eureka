@@ -21,4 +21,9 @@
 # - if guid[count] < guid[length]
 #   - return 202
 # - else
+#   - load last {length} values
+#   - pass to bb.compute
 #   - return band.upper, band.lower, value # (latter is just for easy graphing)
+
+# http://www.bollingerbands.com/services/bb/
+
