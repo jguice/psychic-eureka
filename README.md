@@ -36,4 +36,5 @@ If the service detects a value above or below the band it returns
 
 `anamoly` can also be `below`.
 
-  
+## Running Tests
+```rspec``` :wink:
