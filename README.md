@@ -26,7 +26,7 @@ Returns `202` If there are not enough data points to make a determination.
 
 Returns `200`
 
-If the service detects a value above or below the band it returns
+If the current value is above the upper band, or below the lower band it returns
 ```
 {
   "anamoly": "above"
